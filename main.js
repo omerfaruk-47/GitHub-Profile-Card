@@ -44,16 +44,7 @@ function createUserCard(user) {
         </div>
 
         <p>
-          ${user.Bio}
-        </p>
-
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus iste
-          at dolores vel? At perspiciatis odio officia nisi, fugit et suscipit
-          quae, necessitatibus repellat odit perferendis tempore dicta doloribus
-          quibusdam quia harum autem natus nostrum fugiat voluptatibus numquam
-          ducimus sapiente qui. Dolor saepe quae explicabo veniam natus, alias
-          ullam doloremque.
+        ${userBio}
         </p>
         <ul>
           <li>
