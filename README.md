@@ -19,4 +19,4 @@ users and view their profile information along with their repositories.
 
 <h2>Screenshot</h2>
 
-![Screenshot](/GitHub card.gif)
+![Screenshot](/github%20card.gif)
